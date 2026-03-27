@@ -1,10 +1,10 @@
 {
   "greeting": "Hiya",
   "name": "婧妍",
-  "greetingText": "I really like your name btw!",
-  "wishText": "May happiness always be with you! ;)",
+  "greetingText": "I really like your name!",
+  "wishText": "Wishing you a year full of joy, growth, and amazing adventures!;)",
   "imagePath": "img/lydia2.png",
-  "text1": "It's your birthday!!! :D",
+  "text1": "It's your 20th birthday!!! :D",
   "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
   "sendButtonLabel": "Send",
   "text2": "That's what I was going to do.",
@@ -16,7 +16,7 @@
   "smiley": ":)",
   "bigTextPart1": "S",
   "bigTextPart2": "O",
-  "wishHeading": "Happy Birthday!",
+  "wishHeading": "Happy 20th Birthday!",
   "outroText": "Okay, now come back and tell me if you liked it.",
   "replayText": "Or click, if you want to watch it again.",
   "outroSmiley": ":)"
